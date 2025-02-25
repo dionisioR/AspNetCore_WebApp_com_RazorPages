@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Agenda\\Pages\\Index.cshtml.cs",
+              "ToolTip": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Agenda\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:28:59.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Agenda\\Pages\\Index.cshtml",
+              "ToolTip": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Agenda\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T16:28:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Startup.cs",
+              "RelativeDocumentMoniker": "Agenda\\Startup.cs",
+              "ToolTip": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Startup.cs",
+              "RelativeToolTip": "Agenda\\Startup.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:24:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Program.cs",
+              "RelativeDocumentMoniker": "Agenda\\Program.cs",
+              "ToolTip": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Program.cs",
+              "RelativeToolTip": "Agenda\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:24:13.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

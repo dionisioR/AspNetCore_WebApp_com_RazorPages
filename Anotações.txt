@@ -1,0 +1,17 @@
+PROJETO
+===========================================
+Asp.Net core web app (Razor Page)
+>>>
+
+name [agenda]
+
+.Net 5.0
+Autentication type [none]
+[x] Configure for HTTPS
+[x] enable razor runtime compilation
+>>>
+
+create
+
+===========================================
+
