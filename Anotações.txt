@@ -16,4 +16,29 @@ Autentication type [none]
 create
 
 ===========================================
+CRIANDO UMA AREA PARA AS PÁGINAS
 
+Observação 01:
+- A estrutura deve ser essa, criamos a pastas 'Areas' dentro dela a sub-area, em nosso exemplo 'Contatos', dentro dela
+devemos criar obrigatoriamente a pasta "Pages" e dentro dela criamos as páginas dessa sub-área.
+
+No projeto:
+- btn / add / new folder
+- O nome deve ser 'Areas' para o sistema de rotas
+-- []Areas
+---- []Contatos
+------ []Pages
+
+Dentro de 'Pages'
+-- add / new item / Razor Page - Entity (o razor page vem atrelado a ele o model.cs)
+----- Index
+
+
+Observação 02:
+- Dentro da pastas 'Areas' devemos criar o arquivo '_ViewImports.cshtml' [para compatibilidade dos razors]
+- dentro deste arquivo devenos configurar o name space [Podemos copiar o arquivo que está dentro de 
+'Pages' na raiz do projeto e coloar na pasta 'Areas' e depois ajustar o código]
+
+@using Agenda
+@namespace Agenda.Areas   <<<< atualizando o namespace
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers

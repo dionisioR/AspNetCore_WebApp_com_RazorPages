@@ -359,3 +359,6 @@ F:\CSharp\AspNetCore_WebApp_com_RazorPages\Agenda\Agenda\obj\Debug\net5.0\refint
 F:\CSharp\AspNetCore_WebApp_com_RazorPages\Agenda\Agenda\obj\Debug\net5.0\Agenda.pdb
 F:\CSharp\AspNetCore_WebApp_com_RazorPages\Agenda\Agenda\obj\Debug\net5.0\Agenda.genruntimeconfig.cache
 F:\CSharp\AspNetCore_WebApp_com_RazorPages\Agenda\Agenda\obj\Debug\net5.0\ref\Agenda.dll
+F:\CSharp\AspNetCore_WebApp_com_RazorPages\Agenda\Agenda\obj\Debug\net5.0\Razor\Areas\Contatos\Pages\Index.cshtml.g.cs
+F:\CSharp\AspNetCore_WebApp_com_RazorPages\Agenda\Agenda\obj\Debug\net5.0\Razor\Areas\Contatos\Pages\Create.cshtml.g.cs
+F:\CSharp\AspNetCore_WebApp_com_RazorPages\Agenda\Agenda\obj\Debug\net5.0\Razor\Areas\_ViewImports.cshtml.g.cs
