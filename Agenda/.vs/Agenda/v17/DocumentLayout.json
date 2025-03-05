@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\areas\\contatos\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\areas\\contatos\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\areas\\contatos\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\areas\\contatos\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\areas\\contatos\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\areas\\contatos\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\areas\\contatos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\areas\\contatos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\areas\\contatos\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\areas\\contatos\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|f:\\csharp\\aspnetcore_webapp_com_razorpages\\agenda\\agenda\\areas\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B2735D9-52E9-46CA-A78A-4F5C9076583A}|Agenda\\Agenda.csproj|solutionrelative:agenda\\areas\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +35,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Areas\\Contatos\\Pages\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Agenda\\Areas\\Contatos\\Pages\\Create.cshtml.cs",
-              "ToolTip": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Areas\\Contatos\\Pages\\Create.cshtml.cs",
-              "RelativeToolTip": "Agenda\\Areas\\Contatos\\Pages\\Create.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:07:42.709Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Agenda\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Agenda\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T17:57:40.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,19 +53,33 @@
               "RelativeDocumentMoniker": "Agenda\\Model\\Contato.cs",
               "ToolTip": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Model\\Contato.cs",
               "RelativeToolTip": "Agenda\\Model\\Contato.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T22:58:33.688Z"
+              "WhenOpened": "2025-02-28T22:58:33.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Areas\\Contatos\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Agenda\\Areas\\Contatos\\Pages\\Create.cshtml.cs",
+              "ToolTip": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Areas\\Contatos\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "Agenda\\Areas\\Contatos\\Pages\\Create.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:07:42.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Areas\\Contatos\\Pages\\Create.cshtml",
               "RelativeDocumentMoniker": "Agenda\\Areas\\Contatos\\Pages\\Create.cshtml",
               "ToolTip": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Areas\\Contatos\\Pages\\Create.cshtml",
               "RelativeToolTip": "Agenda\\Areas\\Contatos\\Pages\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABOAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-28T22:54:58.63Z",
               "EditorCaption": ""
@@ -72,18 +87,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Areas\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Agenda\\Areas\\_ViewImports.cshtml",
-              "ToolTip": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Areas\\_ViewImports.cshtml",
-              "RelativeToolTip": "Agenda\\Areas\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T22:48:35.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\CSharp\\AspNetCore_WebApp_com_RazorPages\\Agenda\\Agenda\\Areas\\Contatos\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Agenda\\Areas\\Contatos\\Pages\\Index.cshtml",

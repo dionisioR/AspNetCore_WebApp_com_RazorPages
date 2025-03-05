@@ -18,7 +18,7 @@
             </div>
             <div class="col-5">
                 <input asp-for="Contato.Nome" class="form-control" />
-                <span aps-validation-for="Contato.nome" class="text-danger"></span>
+                <span asp-validation-for="Contato.Nome" class="text-danger"></span>
             </div>
         </div>
 
@@ -28,7 +28,7 @@
             </div>
             <div class="col-5">
                 <input asp-for="Contato.Telefone" class="form-control" />
-                <span aps-validation-for="Contato.Telefone" class="text-danger"></span>
+                <span asp-validation-for="Contato.Telefone" class="text-danger"></span>
             </div>
         </div>
 
@@ -39,7 +39,7 @@
             </div>
             <div class="col-5">
                 <input asp-for="Contato.Email" class="form-control" />
-                <span aps-validation-for="Contato.Email" class="text-danger"></span>
+                <span asp-validation-for="Contato.Email" class="text-danger"></span>
             </div>
         </div>
 
@@ -49,7 +49,7 @@
             </div>
             <div class="col-5">
                 <input asp-for="Contato.Nascimento" class="form-control" />
-                <span aps-validation-for="Contato.Nascimento" class="text-danger"></span>
+                <span asp-validation-for="Contato.Nascimento" class="text-danger"></span>
             </div>
         </div>
 
@@ -81,3 +81,6 @@
 
     </div>
 </form>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
